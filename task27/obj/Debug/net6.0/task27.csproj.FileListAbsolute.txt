@@ -1,0 +1,15 @@
+F:\git\homework4\task27\bin\Debug\net6.0\task27.exe
+F:\git\homework4\task27\bin\Debug\net6.0\task27.deps.json
+F:\git\homework4\task27\bin\Debug\net6.0\task27.runtimeconfig.json
+F:\git\homework4\task27\bin\Debug\net6.0\task27.dll
+F:\git\homework4\task27\bin\Debug\net6.0\task27.pdb
+F:\git\homework4\task27\obj\Debug\net6.0\task27.csproj.AssemblyReference.cache
+F:\git\homework4\task27\obj\Debug\net6.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+F:\git\homework4\task27\obj\Debug\net6.0\task27.AssemblyInfoInputs.cache
+F:\git\homework4\task27\obj\Debug\net6.0\task27.AssemblyInfo.cs
+F:\git\homework4\task27\obj\Debug\net6.0\task27.csproj.CoreCompileInputs.cache
+F:\git\homework4\task27\obj\Debug\net6.0\task27.dll
+F:\git\homework4\task27\obj\Debug\net6.0\refint\task27.dll
+F:\git\homework4\task27\obj\Debug\net6.0\task27.pdb
+F:\git\homework4\task27\obj\Debug\net6.0\task27.genruntimeconfig.cache
+F:\git\homework4\task27\obj\Debug\net6.0\ref\task27.dll
